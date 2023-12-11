@@ -1,0 +1,109 @@
+h1{
+    color: black;
+    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+img{
+    border: solid pink 5px;
+    width: 100%;
+    height: auto;
+}
+
+p{
+    text-align: center;
+    font-size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 18%;
+    margin-left: 18%;
+}
+
+video{
+    width: 50%;
+}
+
+div.Proposal{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+   
+}
+
+video{
+    width: 45%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+a.Menu{
+    margin: 35px 0;
+    padding: 0;
+    text-align: center;
+    font-weight: bolder;
+}
+      
+a.Menu{
+    padding: 5px 10px;
+    border: 1px solid black;
+    background-color: pink;
+    color: black;
+    text-decoration: none;
+}
+
+a.Menu:hover {
+    background: black;
+    color: white;
+ }
+          
+ a.Menu{
+        border:1px solid pink;
+}
+
+a.Menu{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    text-align: center;
+}
+
+h4{
+    font-size: 25px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: floralwhite;
+}
+
+div.Production{
+    grid-template-columns: 38% 38%;
+    display: grid;
+    justify-content: center;
+}
+
+figcaption{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div.doc{
+    border: solid 5px pink;
+}
+
+video{
+    padding-bottom: 25px;
+}
+
+h4.title{
+    color: palevioletred;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 28px;
+}
+
+a.MMG{
+    font-weight: bolder;
+    color: palevioletred;
+}
